@@ -1,4 +1,4 @@
-using BdaUai.Models;
+using BdaUai.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace BdaUai
